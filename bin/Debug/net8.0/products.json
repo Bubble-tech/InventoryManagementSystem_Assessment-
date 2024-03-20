@@ -1,0 +1,23 @@
+[
+  {
+    "productId": 20,
+    "ProductName": "canon camera",
+    "category": "camera",
+    "price": 12000.0,
+    "stockQuantity": 37
+  },
+  {
+    "productId": 16,
+    "ProductName": "Fitbit Versa 3",
+    "category": "phone",
+    "price": 1230000.0,
+    "stockQuantity": 24
+  },
+  {
+    "productId": 15,
+    "ProductName": "Samsung",
+    "category": "Phone",
+    "price": 120000.0,
+    "stockQuantity": 30
+  }
+]

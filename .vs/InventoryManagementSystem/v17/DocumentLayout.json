@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lenovo\\source\\repos\\InventoryManagementSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C9580888-533A-483D-9BBE-A961033B24BF}|InventoryManagementSystem\\InventoryManagementSystem.csproj|c:\\users\\lenovo\\source\\repos\\inventorymanagementsystem\\inventorymanagementsystem\\inventorymanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9580888-533A-483D-9BBE-A961033B24BF}|InventoryManagementSystem\\InventoryManagementSystem.csproj|solutionrelative:inventorymanagementsystem\\inventorymanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9580888-533A-483D-9BBE-A961033B24BF}|InventoryManagementSystem\\InventoryManagementSystem.csproj|c:\\users\\lenovo\\source\\repos\\inventorymanagementsystem\\inventorymanagementsystem\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9580888-533A-483D-9BBE-A961033B24BF}|InventoryManagementSystem\\InventoryManagementSystem.csproj|solutionrelative:inventorymanagementsystem\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9580888-533A-483D-9BBE-A961033B24BF}|InventoryManagementSystem\\InventoryManagementSystem.csproj|c:\\users\\lenovo\\source\\repos\\inventorymanagementsystem\\inventorymanagementsystem\\ordermanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9580888-533A-483D-9BBE-A961033B24BF}|InventoryManagementSystem\\InventoryManagementSystem.csproj|solutionrelative:inventorymanagementsystem\\ordermanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9580888-533A-483D-9BBE-A961033B24BF}|InventoryManagementSystem\\InventoryManagementSystem.csproj|c:\\users\\lenovo\\source\\repos\\inventorymanagementsystem\\inventorymanagementsystem\\productquantity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9580888-533A-483D-9BBE-A961033B24BF}|InventoryManagementSystem\\InventoryManagementSystem.csproj|solutionrelative:inventorymanagementsystem\\productquantity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9580888-533A-483D-9BBE-A961033B24BF}|InventoryManagementSystem\\InventoryManagementSystem.csproj|c:\\users\\lenovo\\source\\repos\\inventorymanagementsystem\\inventorymanagementsystem\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9580888-533A-483D-9BBE-A961033B24BF}|InventoryManagementSystem\\InventoryManagementSystem.csproj|solutionrelative:inventorymanagementsystem\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9580888-533A-483D-9BBE-A961033B24BF}|InventoryManagementSystem\\InventoryManagementSystem.csproj|c:\\users\\lenovo\\source\\repos\\inventorymanagementsystem\\inventorymanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9580888-533A-483D-9BBE-A961033B24BF}|InventoryManagementSystem\\InventoryManagementSystem.csproj|solutionrelative:inventorymanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9580888-533A-483D-9BBE-A961033B24BF}|InventoryManagementSystem\\InventoryManagementSystem.csproj|c:\\users\\lenovo\\source\\repos\\inventorymanagementsystem\\inventorymanagementsystem\\userinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9580888-533A-483D-9BBE-A961033B24BF}|InventoryManagementSystem\\InventoryManagementSystem.csproj|solutionrelative:inventorymanagementsystem\\userinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrderManagement.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\InventoryManagementSystem\\InventoryManagementSystem\\OrderManagement.cs",
+              "RelativeDocumentMoniker": "InventoryManagementSystem\\OrderManagement.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\InventoryManagementSystem\\InventoryManagementSystem\\OrderManagement.cs",
+              "RelativeToolTip": "InventoryManagementSystem\\OrderManagement.cs",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAAAEkAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T19:27:41.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Products.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\InventoryManagementSystem\\InventoryManagementSystem\\Products.cs",
+              "RelativeDocumentMoniker": "InventoryManagementSystem\\Products.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\InventoryManagementSystem\\InventoryManagementSystem\\Products.cs",
+              "RelativeToolTip": "InventoryManagementSystem\\Products.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T19:02:35.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\InventoryManagementSystem\\InventoryManagementSystem\\Program.cs",
+              "RelativeDocumentMoniker": "InventoryManagementSystem\\Program.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\InventoryManagementSystem\\InventoryManagementSystem\\Program.cs",
+              "RelativeToolTip": "InventoryManagementSystem\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T16:25:07.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductQuantity.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\InventoryManagementSystem\\InventoryManagementSystem\\ProductQuantity.cs",
+              "RelativeDocumentMoniker": "InventoryManagementSystem\\ProductQuantity.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\InventoryManagementSystem\\InventoryManagementSystem\\ProductQuantity.cs",
+              "RelativeToolTip": "InventoryManagementSystem\\ProductQuantity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T16:21:45.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\InventoryManagementSystem\\InventoryManagementSystem\\Order.cs",
+              "RelativeDocumentMoniker": "InventoryManagementSystem\\Order.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\InventoryManagementSystem\\InventoryManagementSystem\\Order.cs",
+              "RelativeToolTip": "InventoryManagementSystem\\Order.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T16:22:50.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "InventoryManagement.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\InventoryManagementSystem\\InventoryManagementSystem\\InventoryManagement.cs",
+              "RelativeDocumentMoniker": "InventoryManagementSystem\\InventoryManagement.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\InventoryManagementSystem\\InventoryManagementSystem\\InventoryManagement.cs",
+              "RelativeToolTip": "InventoryManagementSystem\\InventoryManagement.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T13:48:01.982Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserInterface.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\InventoryManagementSystem\\InventoryManagementSystem\\UserInterface.cs",
+              "RelativeDocumentMoniker": "InventoryManagementSystem\\UserInterface.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\InventoryManagementSystem\\InventoryManagementSystem\\UserInterface.cs",
+              "RelativeToolTip": "InventoryManagementSystem\\UserInterface.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGUAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T16:26:16.751Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
